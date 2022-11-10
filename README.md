@@ -1,1 +1,1 @@
-GPT chnagar CSE
+GPT Chnagar CSE
